@@ -1,0 +1,17 @@
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/RayTracing
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/RayTracing.deps.json
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/RayTracing.runtimeconfig.json
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/RayTracing.dll
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/RayTracing.pdb
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.GeneratedMSBuildEditorConfig.editorconfig
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.AssemblyInfoInputs.cache
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.AssemblyInfo.cs
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.csproj.CoreCompileInputs.cache
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.dll
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/refint/RayTracing.dll
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.pdb
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.genruntimeconfig.cache
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/ref/RayTracing.dll
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/bin/Debug/net8.0/SixLabors.ImageSharp.dll
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.csproj.AssemblyReference.cache
+/home/ondrey/Pulpit/RayTracingProject/RayTracing/obj/Debug/net8.0/RayTracing.csproj.CopyComplete

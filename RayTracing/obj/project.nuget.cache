@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtQLs1h+0ZUGac9HKBSGBrHYeqUdyqT1F+88A7ALXbwCx74rBN076iZY8Jb2fqUN6JlBwJYMk1gjUkaSGlGYoQ==",
+  "success": true,
+  "projectFilePath": "/home/ondrey/Pulpit/RayTracingProject/RayTracing/RayTracing.csproj",
+  "expectedPackageFiles": [
+    "/home/ondrey/.nuget/packages/sixlabors.imagesharp/3.1.6/sixlabors.imagesharp.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
