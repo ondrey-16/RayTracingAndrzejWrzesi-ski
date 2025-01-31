@@ -1,4 +1,4 @@
-# **RayTracingAndrzejWrzesinski**
+# **Ray Tracing - Andrzej Wrzesinski**
 
 Projekt polegal na zaimplementowaniu programu generujacego obraz w formacie JPEG, przedstawiajacy zbior kul/sfer,
 imitujacych rozne rodzaje materialow: szklo, dielektryk czy metal. Tworzenie imitacji tych bryl zostalo utworzone za pomoca metody Ray Tracing'u.
