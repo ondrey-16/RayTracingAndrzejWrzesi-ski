@@ -1,8 +1,8 @@
-# **Ray Tracing - Andrzej Wrzesinski**
+# **Ray Tracing Image Generator - Andrzej Wrzesinski**
 
-Projekt polegal na zaimplementowaniu programu generujacego obraz w formacie JPEG, przedstawiajacy zbior kul/sfer,
-imitujacych rozne rodzaje materialow: szklo, dielektryk czy metal. Tworzenie imitacji tych bryl zostalo utworzone za pomoca metody Ray Tracing'u.
-Koncowy obraz sklada sie z 3 glownych kul, razem z wieloma innymi mniejszymi. Obraz jest generowany w standardowych proporcjach 9 : 16,
-dla szerokosci 500px.
+The project consisted in implementing a program that generates an image in JPEG format, showing a set of spheres,
+imitating different types of materials: glass, dielectric or metal. The creation of imitations of these solids was created using the Ray Tracing method.
+The final image consists of 3 main spheres, along with many other smaller ones. The image is generated in the standard aspect ratio of 9 : 16,
+for a width of 500px.
 <br><br>
-![Przykladowy generowany obraz](FinalImage.jpeg)
+![Example image generated](FinalImage.jpeg)
